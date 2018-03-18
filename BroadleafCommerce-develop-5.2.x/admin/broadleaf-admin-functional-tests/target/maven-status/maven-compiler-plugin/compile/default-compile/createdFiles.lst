@@ -1,0 +1,15 @@
+org\broadleafcommerce\browsertest\page\ActionableListGridModule.class
+org\broadleafcommerce\browsertest\page\AdminLoginPage.class
+org\broadleafcommerce\browsertest\page\Row.class
+org\broadleafcommerce\browsertest\page\TopLevelEntity.class
+org\broadleafcommerce\browsertest\page\AdminPage.class
+GebConfig.class
+org\broadleafcommerce\browsertest\page\AdornedTargetPage.class
+org\broadleafcommerce\browsertest\page\EntityTypeSelection.class
+org\broadleafcommerce\browsertest\page\EntityFormPage.class
+org\broadleafcommerce\browsertest\page\EntityLookup.class
+org\broadleafcommerce\browsertest\page\EntityFormModal.class
+org\broadleafcommerce\browsertest\page\FieldConverterSupport.class
+org\broadleafcommerce\browsertest\page\ListGridModule.class
+org\broadleafcommerce\browsertest\spec\OpenAdminSpec.class
+org\broadleafcommerce\browsertest\spec\BroadleafAdminSpec.class
